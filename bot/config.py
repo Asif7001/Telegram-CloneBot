@@ -3,14 +3,14 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = ""
-GDRIVE_FOLDER_ID = ""
+BOT_TOKEN = "5465285402:AAE9rnR0f3YrvAQunF1Qi-MVl6TuWzBRPfY"
+GDRIVE_FOLDER_ID = "0AFbfMI35_Cx3Uk9PVA"
 # Default folder id.
-OWNER_ID = 123455673
+OWNER_ID = 5201472760
 # Example: OWNER_ID = 619418070
-AUTHORISED_USERS = []
+AUTHORISED_USERS = [-1001756284599]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = ""
+INDEX_URL = "https://drive.evilranger89.workers.dev/0:"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = True
 # --------------------------------------
